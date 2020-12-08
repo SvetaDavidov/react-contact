@@ -12,5 +12,13 @@
   "checkout": {
     "pageTitle": "Check-out",
     "totalPriceTitle": "Prix Total"
+  },
+  "contacts": {
+    "firstname": "First Name",
+		"lastname": "Last Name",
+		"address": "Address",
+		"age": "Age",
+		"phone": "Phone",
+		"email": "Email"
   }
 }

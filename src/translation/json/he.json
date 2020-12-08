@@ -1,0 +1,25 @@
+{
+    "deviceGallery": {
+      "pageTitle": "Galerie D'appareils",
+      "addToCartButton": "Ajouter au Chariot",
+      "removeFromCartButton": "Retirer",
+      "priceTitle": "Prix",
+      "clearCartButton": "Vider le Panier",
+      "checkoutButton": "Check-out",
+      "specificErrorHandlerToComponentHeader": "Component with Error",
+      "specificErrorHandlerToComponentBody": "This is handled by error handler with component"
+    },
+    "checkout": {
+      "pageTitle": "Check-out",
+      "totalPriceTitle": "Prix Total"
+    },
+    "contacts": {
+      "firstname": "שם פרתי",
+          "lastname": "שם מישפחה",
+          "address": "כתובת",
+          "age": "גיל",
+          "phone": "נייד",
+          "email": "דואל"
+    }
+  }
+  
